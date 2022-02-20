@@ -1,0 +1,12 @@
+
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('001','001 - BANCO DO BRASIL S/A');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('341','341 – Banco Itaú S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('033','033 – Banco Santander (Brasil) S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('652','652 – Itaú Unibanco Holding S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('237','237 – Banco Bradesco S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('745','745 – Banco Citibank S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('104','104 – Caixa Econômica Federal');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('389','389 – Banco Mercantil do Brasil S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('453','453 – Banco Rural S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('422','422 – Banco Safra S.A.');
+INSERT INTO `bancos` (`bank_code`, `bank_name`) VALUES ('633','633 – Banco Rendimento S.A.');

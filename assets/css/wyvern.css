@@ -1,0 +1,66 @@
+
+.box.box-solid.box-purple > .box-header {
+  color: #ffffff;
+  background: #BF00FF;
+  background-color: #BF00FF;
+}
+
+.box.box-solid.box-purple > .box-header a,
+.box.box-solid.box-purple > .box-header .btn {
+  color: #ffffff;
+}
+
+.box.box-purple {
+  border-top-color: #BF00FF;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
+
+.margin-top-70 {
+  margin-top: 70px;
+}
+
+.width-250{
+  width: 250px;
+}
+
+.img-produto-home
+{
+  width: 100%;
+  height: 200px;
+  /*border: 1px solid black;*/
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.img-produto
+{
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.img-produto-mini
+{
+  height: 150px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.list-wyvern {
+  list-style: none;
+  /*border: 1px solid black;*/
+}
+
+.list-wyvern-item {
+  /*border: 1px solid yellow;*/
+}
